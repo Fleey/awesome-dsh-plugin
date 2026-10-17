@@ -1,0 +1,6 @@
+url: https://github.com/Fleey/deepseek-harness-custom-mcp
+name: Fleey/deepseek-harness-custom-mcp
+category: ui
+description:
+  en: 'Manages MCP servers from a Settings page: add, edit and switch stdio or Streamable HTTP servers on and off, enable or disable single tools without reconnecting, view live connection status and logs, keep secret env vars and headers in the DSH credential store, and import mcpServers JSON.'
+  zh: 在「设置 → MCP 服务器」中管理 MCP：添加、编辑、开关 stdio 或 Streamable HTTP 服务器，单个工具启停且不重连，实时查看连接状态与日志，密文环境变量和请求头存入 DSH 凭据库，支持导入 mcpServers JSON。
